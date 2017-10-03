@@ -1,0 +1,1 @@
+alert("Nobody uses alerts");
